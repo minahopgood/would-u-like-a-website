@@ -1,0 +1,10 @@
+h1, h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1, h3, h4, p, ol, iframe, img{
+    text-align: center;
+}
+h1 {
+    color: rgb(119, 0, 255);
+}
